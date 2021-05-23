@@ -10,7 +10,6 @@ h4 {
 .footer {
     background: linear-gradient(270deg, #235891, #3d86d4, #0e437a);
     background-size: 600% 600%;
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
