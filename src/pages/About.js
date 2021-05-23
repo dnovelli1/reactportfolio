@@ -1,9 +1,10 @@
 import React from 'react';
+import AboutSec from '../components/AboutSec';
 
 function About() {
-    return(
+    return (
         <div>
-            <p>This is the about</p>
+            <AboutSec />
         </div>
     )
 }
