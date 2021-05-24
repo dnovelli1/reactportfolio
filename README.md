@@ -2,7 +2,7 @@
 
  In this assignment I created my final portfolio using React.js. I created a React app and created 3 different pages for Home, About and Projects. In order to do so I needed to use React Router to recognize the path to the page being clicked on. I created components to plug in to the pages I would like the components to be shown on. I also used a Navbar and Footer on every single page containing my contact information. If you would like to view my portfolio, please click the link below:
 
-[Portfolio]()
+[Portfolio](https://dnovelli1.github.io/reactportfolio/)
 
 
 ## Table of Contents
