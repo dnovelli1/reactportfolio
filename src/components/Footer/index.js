@@ -3,9 +3,9 @@ import './style.css';
 
 function Footer() {
     return (
-        <footer class="footer mt-auto py-3">
+        <footer className="footer mt-auto py-3">
             <h4>Contact Me</h4>
-            <div class="container">
+            <div className="container">
                 <a className="myLinks" target="blank" href="https://www.linkedin.com/in/david-jacob-novelli/" alt="This will take you to my linkedin profile!"><i className="fab fa-linkedin"></i></a>
                 <a className="myLinks" target="blank" href="https://github.com/dnovelli1" alt="This will take you to my GitHub profile!"><i className="fab fa-github-square"></i></a>
                 <a className="myLinks" target="blank" href="mailto:jakenovelli11@gmail.com" alt="This will autofill my email in a draft in your email!"><i className="fas fa-envelope-square"></i></a>
