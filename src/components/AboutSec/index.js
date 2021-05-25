@@ -17,7 +17,7 @@ function AboutSec() {
                         If you would like a copy of my resume, please click the file icon in the Contact Me section. The link will begin a download of my Resume.
                         </p>
                 </div>
-                <img src="./about.gif" class="card-img" style={{maxHeight: 600}} alt="cool" />
+                <img src={process.env.PUBLIC_URL + "/about.gif"} class="card-img" style={{maxHeight: 600}} alt="cool" />
             </div>
         </div>
         </FadeIn>

@@ -4,7 +4,7 @@ import FadeIn from 'react-fade-in';
 function Home() {
     return (
         <FadeIn>
-            <img src="./home.jpg" class="img-fluid" alt="Cyber World"></img>
+            <img src={process.env.PUBLIC_URL + "/home.jpg"} class="img-fluid" alt="Cyber World"></img>
         </FadeIn>
     )
 }
